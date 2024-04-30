@@ -17,8 +17,8 @@ MAC科学上网（Debian系统）
 代码命令：
 rm -rf /etc/localtime
 ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
-当出现bash <(curl -s -L https://git.io/v2ray.sh)
-时，操作如下：
+bash <(curl -s -L https://git.io/v2ray.sh)
+如果bash <(curl -s -L https://git.io/v2ray.sh)运行报错则运行
 apt-get update -y && apt-get install curl -y
 直接复制给的代码即可
 
