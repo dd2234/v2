@@ -13,8 +13,6 @@ wget -N https://gitlab.com/rwkgyg/x-ui-yg/raw/main/install.sh && bash install.sh
 把二维码复制发给客户即可。
 
 
-
-
 MAC科学上网（Debian系统）
 代码命令：
 rm -rf /etc/localtime
@@ -22,7 +20,6 @@ ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
 当出现bash <(curl -s -L https://git.io/v2ray.sh)
 时，操作如下：
 apt-get update -y && apt-get install curl -y
-
 直接复制给的代码即可
 
 
