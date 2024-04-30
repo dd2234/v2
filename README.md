@@ -1,3 +1,6 @@
+本文仅供学习参考,无任何盈利性质,不承担任何法律责任
+本文仅供VPN技术的学习记录，请勿传播
+如果有人看到本文章，请勿私自搭建进行违法犯罪行为
 Windows 科学上网（Ubuntu系统）
 代码命令：
 wget -N https://gitlab.com/rwkgyg/x-ui-yg/raw/main/install.sh && bash install.sh
